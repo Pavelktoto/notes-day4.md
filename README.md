@@ -2,3 +2,4 @@
 GitHub
 # Day 4
 Understanding GitHub activity
+Progress: daily GitHub practice
